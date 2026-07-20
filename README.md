@@ -175,16 +175,6 @@ ros2 launch my_robot_bringup number_app.launch.xml
 
 ---
 
-## Author
-
-**Amirtha Varshiniy**
-
-EEE Undergraduate ⚡ | Future Microelectronics Engineer
-
-Interested in Robotics, Embedded Systems, VLSI, and Edge AI.
-
----
-
 ## License
 
 This repository is intended for learning, educational, and research purposes.
