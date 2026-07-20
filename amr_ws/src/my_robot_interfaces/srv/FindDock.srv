@@ -1,0 +1,7 @@
+float32 x
+float32 y
+---
+float32 dock_x
+float32 dock_y
+float32 distance
+bool reachable

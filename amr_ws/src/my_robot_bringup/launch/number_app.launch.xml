@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="demo_pkg" exec="number_publisher">
+        <param from="$(find-pkg-share my_robot_bringup)/config/number_params.yaml" />
+    </node>
+    <node pkg="demo_pkg" exec="number_counter"/>
+</launch>

@@ -1,0 +1,3 @@
+float32 voltage
+int64 percentage
+bool is_charging
